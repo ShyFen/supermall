@@ -1,0 +1,58 @@
+{
+  "id": "2360006",
+  "name": "supermall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2681720",
+      "name": "选中",
+      "font_class": "selected",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "79193",
+      "name": "加入购物车",
+      "font_class": "icon",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5532889",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "9509958",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "19690146",
+      "name": "收 藏",
+      "font_class": "shoucang_huaban1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7335472",
+      "name": "向左",
+      "font_class": "xiangzuo",
+      "unicode": "eb21",
+      "unicode_decimal": 60193
+    },
+    {
+      "icon_id": "6539449",
+      "name": "向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    }
+  ]
+}
